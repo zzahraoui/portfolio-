@@ -1,2 +1,3 @@
-# portfolio-
-portfolio 
+# Portfolio
+
+This repository contains my personal portfolio.
